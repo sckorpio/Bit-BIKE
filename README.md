@@ -1,6 +1,7 @@
 # Bit-BIKE
 An Amazing Bike game controlled with "real bike"!!!!!
-![](screenshot/Screenshot%20from%202019-02-10%2022-33-06.png)
+![](screenshot/Screenshot%20from%202019-02-10%2022-33-20.png) 
+
 # PROJECT TITLE:   Bit-BIKE
 # AUTHORS:         Sckorpio
 # VERSION or DATE: Feburary,2019
@@ -13,7 +14,7 @@ An Amazing Bike game controlled with "real bike"!!!!!
                        Increase/decrease Speed "Using paddling your real bike or use breaks"
                        Gyro Sensor to detect your bike handle angle.
                        IR Sensor to detect the RPM of the wheel.
-![](screenshot/Screenshot%20from%202019-02-10%2022-33-20.png)                       
+![](screenshot/Screenshot%20from%202019-02-10%2022-33-06.png)                  
 # TECHNOLOGY USED: 
                      -- Audrino/Node MCU ,UNO
                      -- Gyro/Acclerometer, IR Sensors
