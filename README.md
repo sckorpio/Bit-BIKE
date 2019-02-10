@@ -3,8 +3,12 @@ An Amazing Bike game controlled with "real bike"!!!!!
 ![](screenshot/Screenshot%20from%202019-02-10%2022-33-20.png) 
 
 # PROJECT TITLE:   Bit-BIKE
-# AUTHORS:         Sckorpio
+# AUTHORS:         Sckorpio ( Project Made in HACK 3.0 NIT Hamirpur with First Year Students)
 # VERSION or DATE: Feburary,2019
+
+# VEDIO LINKS:      
+- https://www.youtube.com/watch?v=lmFNvuzef1s&feature=youtu.be
+
 ![](screenshot/Screenshot%20from%202019-02-10%2022-32-14.png)
 # DESCRIPTION:
                        An Amazing bike game
