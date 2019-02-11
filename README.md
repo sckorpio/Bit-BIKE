@@ -6,7 +6,7 @@ An Amazing Bike game controlled with "real bike"!!!!!
 # AUTHORS:         Sckorpio ( Project Made in HACK 3.0 NIT Hamirpur with First Year Students)
 # VERSION or DATE: Feburary,2019
 
-# VEDIO LINKS:      
+# VIDEO LINKS:      
 - https://www.youtube.com/watch?v=lmFNvuzef1s&feature=youtu.be
 
 ![](screenshot/Screenshot%20from%202019-02-10%2022-32-14.png)
@@ -20,13 +20,14 @@ An Amazing Bike game controlled with "real bike"!!!!!
                        IR Sensor to detect the RPM of the wheel.
 ![](screenshot/Screenshot%20from%202019-02-10%2022-33-06.png)                  
 # TECHNOLOGY USED: 
-                     -- Audrino/Node MCU ,UNO
+                     -- Node MCU
                      -- Gyro/Acclerometer, IR Sensors
                      -- Unity3D, C#
                      -- Physics
 ![](screenshot/Screenshot%20from%202019-02-10%2023-01-43.png)                        
 # USER INSTRUCTIONS: --
                      -- Download the files
+                     -- Upload the Arduino sketch to your NodeMCU board
                      -- Setup the Sensors as specified
                      -- Attach to Unity
                      -- Load the first.scene
