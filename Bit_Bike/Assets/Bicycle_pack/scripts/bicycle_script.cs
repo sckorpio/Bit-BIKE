@@ -47,7 +47,8 @@ public class bicycle_script : MonoBehaviour
 		init_handle_angle = abs_handle_angle;
 
 	}
-		
+	/*	
+	// JUST_FOR_TESTING: to test without sensor
 	void get_inputs()
 	{
 		if (Input.GetKey(KeyCode.UpArrow))
@@ -63,20 +64,17 @@ public class bicycle_script : MonoBehaviour
 
 	}
 	
-	
+	*/
 
 	// Update is called once per frame
 	void FixedUpdate()
 	{
 
-		get_inputs();
+		// get_inputs();
 		Set_Handle_angle ();
 
 		delta_handle_angle = 0;
 		BIKE.transform.Rotate (Vector3.up, ((abs_handle_angle - start_handle_angle)* speed)* Time.deltaTime);
-
-		
-
 
 		BIKE.transform.Translate (Vector3.forward * speed * Time.deltaTime);
 
